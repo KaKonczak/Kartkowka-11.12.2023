@@ -1,0 +1,286 @@
+    1  composer require global installer/laravel
+    2  composer require global laravel/installer
+    3  composer global require laravel/installer
+    4  laravel new formularze
+    5  cd formularze
+    6  code .
+    7  php artisan make:controller UserFormController
+    8  php artisan serv
+    9  git init test
+   10  mkdir dir
+   11  touch file
+   12  mkdir css
+   13  cd css
+   14  touch style.css
+   15  cd test
+   16  cd ..
+   17  cd test
+   18  mkdir dir
+   19  touch plik
+   20  mkdir css
+   21  cd css
+   22  touch style.css
+   23  git commit -m "dodanie katalogów i plików"
+   24  echo table >> style.css
+   25  git commit -m "modyfikacja style.css"
+   26  git config --global user.email "zuzanna.przybyl@uczen.zsk.poznan.pl"
+   27  git config --global user.name "lacertavirdis"
+   28  cat style.css
+   29  git log --oneline
+   30  git log
+   31  cd ..
+   32  git log
+   33  git commit -m "dodanie katalogów i plików"
+   34  git add .
+   35  git commit -m "dodanie katalogów i plików"
+   36  echo dziecko > style.css
+   37  cat style
+   38  cat style.css
+   39  git rm style.css
+   40  git rm /style.css
+   41  git rm css/style.css
+   42  git add .
+   43  git commit -m "usunięcie style.css"
+   44  git log 
+   45  git log --oneline
+   46  git checkout ddb3eb0
+   47  vim plik
+   48  git switch -
+   49  git history
+   50  history
+   51  composer glbal require laravel/installer
+   52  composer global require laravel/installer
+   53  git config --global user.name "lacertavirdis\"
+   54  git config --global user.name "lacertavirdis"
+   55  git config
+   56  git config --global user.name "lacertavirdis"
+   57  git config --global user.email "zuzanna.przybyl@uczen.zsk.poznan.pl"
+   58  git config --list
+   59  git config --gloabl --list
+   60  git config --global --list
+   61  git clone "https://github.com/lacertavirdis/test.git"
+   62  git config --global user.email "zuzanna.przybyl@uczen.zsk.poznan.pl"
+   63  git config --global user.name "lacertavirdis"
+   64  cd test
+   65  touch test
+   66  ls
+   67  ls al
+   68  ls -al
+   69  test >> ls -al
+   70  ls -al
+   71  -al
+   72  ls nd
+   73  ld -nd
+   74  ls
+   75  test >> ls
+   76  ls
+   77  ls -a >> test
+   78  cat test
+   79  git config core.editor help
+   80  git config core.editor atom
+   81  git add .
+   82  git commit 
+   83  git commit -m "dodanie"
+   84  git push
+   85  git log --oneline
+   86  git checkout c15bd73
+   87  git commit -m "usuniecie"
+   88  git push
+   89  git revert c15bd73
+   90  git commit -m "usuniecie"
+   91  git push
+   92  git revert c15bd73
+   93  git push
+   94  git revert c15bd73
+   95  git add .
+   96  git push
+   97  git reset c15bd73
+   98  git revert c15bd73
+   99  git log --oneline
+  100  git push
+  101  git checkout master
+  102  git checkout main
+  103  git push
+  104  git revert c15bd73
+  105  git push
+  106  git log history
+  107  history
+  108  git config --global user.name
+  109  cleanclean
+  110  clear
+  111  cd desktop
+  112  mkdir Git
+  113  cd Git
+  114  git init
+  115  git push
+  116  git add .
+  117  touch test.txt
+  118  git status
+  119  git add .
+  120  git status
+  121  git commit -am "Commit"
+  122  git remote origin https://github.com/KaKonczak/Test
+  123  git remote add https://github.com/KaKonczak/Test
+  124  git remote add origin https://github.com/KaKonczak/Test
+  125  git push
+  126  git push origin main
+  127  git push origin
+  128  git push --set-upstream origin master
+  129  git push origin
+  130  git push --set-upstream origin master
+  131  git remode rm
+  132  git push origin
+  133  git push --set-upstream origin master
+  134  git push --set-upstream origin master
+  135  git
+  136  git push origin
+  137  clear
+  138  touch TestRm.txt
+  139  add .
+  140  git add .
+  141  git status
+  142  git rm -i
+  143  git rm -n
+  144  git rm TestRm.txt
+  145  git rm TestRm.txt -f
+  146  git status
+  147  git log
+  148  git log -oneline
+  149  git log --oneline
+  150  git checkout edb7930
+  151  git status
+  152  git reset
+  153  git status
+  154  cd..
+  155  cd ..
+  156  mkdir GitNewRepo
+  157  cd GitNewRepo
+  158  git branch
+  159  git init
+  160  git branch
+  161  git pull https://github.com/KaKonczak/NewTestRepo
+  162  git branch
+  163  git add branch zsk
+  164  git branch add zsk
+  165  git branch zsk
+  166  git branch
+  167  git checkout -b egzamin
+  168  git branch
+  169  git checkout master
+  170  git branch master
+  171  ls 
+  172  touch zsk
+  173  ls
+  174  branch zsk
+  175  git checkout zsk
+  176  ls
+  177  echo "zsk" > zsk
+  178  git checkout master
+  179  ls
+  180  cat zsk
+  181  git add .
+  182  git commit -m "Added zsk"
+  183  git push origin master
+  184  git push origin
+  185  git push --set-upstream origin master
+  186  git push origin
+  187  git remote add origin https://github.com/KaKonczak/NewTestRepo
+  188  git push origin
+  189  git push --set-upstream origin master
+  190  git push origin
+  191  laravel new case
+  192  cd case
+  193  code .
+  194  php artisan serv
+  195  composer global require laravel/installer
+  196  laravel new sprawdzian
+  197  code .
+  198  cd sprawdzian
+  199  code .
+  200  php artisan serv
+  201  php artisan lang:add pl
+  202  composer require laravel-lang/common
+  203  php artisan lang:add pl
+  204  composer global require laravel/installer
+  205  laravel new prodzekt
+  206  git config --list global
+  207  git config --list --global
+  208  git config --global user.email "zuzanna.przybyl@uczen.zsk.poznan.pl"
+  209  git config --global user.name "lacertavirdis"
+  210  git config --list --global
+  211  git clone https://github.com/lacertavirdis/branche.git
+  212  git add README.md
+  213  cd branche
+  214  git add README.md
+  215  code .
+  216  echo "# branche" >> README.md
+  217    git init
+  218    git add README.md
+  219    git commit -m "first commit"
+  220    git branch -M main
+  221    git remote add origin https://github.com/lacertavirdis/branche.git
+  222    git push -u origin main
+  223  code .
+  224  git branch
+  225  git branch feature
+  226  git branch
+  227  git checkout feature
+  228  touch file
+  229  echo dopisanie >> file
+  230  cat file
+  231  git add .
+  232  git status
+  233  git commit -m "add new feature"
+  234  git status
+  235  git checkout main
+  236  git status
+  237  ls
+  238  git checkout feature
+  239  ls
+  240  git checkout main
+  241  ls
+  242  git merge main feature
+  243  ls
+  244  git push origin main
+  245  git config --global --list
+  246  git config --local --list
+  247  git config  --list
+  248  git push origin main
+  249  git push -U origin main
+  250  git push -u origin main
+  251  git remote set-url origin https://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@github.com/lacertavirdis/branche
+  252  git push origin main
+  253  echo "# branche" >> README.md
+  254    git init
+  255    git add README.md
+  256    git commit -m "first commit"
+  257    git branch -M main
+  258    git remote add origin https://github.com/lacertavirdis/branche.git
+  259    git push -u origin main
+  260  git tag v1.0
+  261  ls
+  262  git status
+  263  history > historia
+  264  ls
+  265  git push
+  266  git config --global user.name "a"
+  267  git config --global user.email "b"
+  268  git config --global --list
+  269  mkdir Kartkowka
+  270  cd desktop
+  271  mkdir Kartkowka
+  272  cd Kartkowka
+  273  clean
+  274  clear
+  275  git config --global user.name KaKonczak
+  276  git config --global user.email kalina.konczak7@gmail.com
+  277  git init
+  278  git pull https://github.com/KaKonczak/Kartkowka-11.12.2023
+  279  git branch
+  280  git history
+  281  git log
+  282  git log > Historia
+  283  ls
+  284  cat Historia
+  285  history
+  286  history > Historia
